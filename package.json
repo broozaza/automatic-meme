@@ -1,0 +1,30 @@
+{
+  "name": "roblox-group-autoranker",
+  "version": "1.0.0",
+  "description": "Helps auto-rank groups on ROBLOX",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Quenty",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quenty/roblox-group-autoranker.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "noblox.js": "^6.2.0",
+    "object-assign": "^4.1.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Quenty/roblox-group-autoranker/issues"
+  },
+  "homepage": "https://github.com/Quenty/roblox-group-autoranker#readme"
+}
